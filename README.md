@@ -1,6 +1,6 @@
 # Greek++ Compiler
 
-This repository contains an implementation of a compiler for **Greek++**, a small educational programming language developed as part of my **MYY802 Compilers course**.  
+This repository contains an implementation of a compiler for **Greek++**, a small educational programming language developed as part of my **Compilers course**.  
 The project includes all major phases of a typical compiler: lexical analysis, syntax analysis, semantic actions, symbol table management and generation of intermediate code.
 
 ## Contributors
